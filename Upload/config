@@ -1,0 +1,7 @@
+data_directory disabled
+redraw_rate 2
+show_bits true
+show_accounting false
+show_log false
+show_torrc false
+show_interpreter false
